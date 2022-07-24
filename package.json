@@ -1,6 +1,6 @@
 {
   "name": "react-session-dynamodb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A session management component in React that uses dynamodb as the backend",
   "author": "superflows-dev",
   "license": "MIT",

@@ -74,11 +74,12 @@ export default App
 
 ## Tests
 
+
 PASS src/index.test.js (13.854s)
-  ✓ Render, no token on server (3021ms)
-  ✓ Render, token mismatch with server (3004ms)
-  ✓ Render, token match with server (3006ms)
-  ✓ Render, no local token (3005ms)
+- ✓ Render, no token on server (3021ms)
+- ✓ Render, token mismatch with server (3004ms)
+- ✓ Render, token match with server (3006ms)
+- ✓ Render, no local token (3005ms)
 
 -------------|----------|----------|----------|----------|-------------------|
 File         |  % Stmts | % Branch |  % Funcs |  % Lines | Uncovered Line #s |
